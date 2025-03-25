@@ -47,11 +47,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ZairoX-737&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZairoX-737&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=ZairoX-737&theme=darkhub&column=-1&row=2&margin-w=5&margin-h=5&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/ZairoX-737/ZairoX-737/output/snake.svg" alt="Snake animation" />
 
 ###
