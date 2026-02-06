@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Kirill and I'm a Front-End developer, from Saint-Petersburg</p>
+<p align="left">My name is Kirill and I'm a Front-End developer</p>
 
 ###
 
